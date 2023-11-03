@@ -1,2 +1,2 @@
 # tickets
-Private repo for Infra project
+Public repo for Infra project
